@@ -10,5 +10,5 @@
   <p><a href="mailto:nnazlicansahin@gmail.com">nnazlicansahin@gmail.com</a></p>
 </body>
 </html>
-> ✉️ `nnazlicansahin@gmail.com
+> ✉️  nnazlicansahin@gmail.com
 
